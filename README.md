@@ -98,8 +98,6 @@
   
   **⭐ If you like my projects, please give them a star! ⭐**
   
-  ![Snake animation](https://github.com/ZZJNP112-LGTM/ZZJNP112-LGTM/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
 
 ---
