@@ -30,7 +30,7 @@
 ### 💻 Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ### 🛠 Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -53,7 +53,7 @@
 - 🎓 **学历**: 本科自动化在读
 - 💻 **专长**: Modern C++ 开发
 - 🔧 **领域**: 自动化控制系统
-- 📈 **目标**: 成为全栈工程师
+- 📈 **目标**: 成为ros工程师
 
 </td>
 <td valign="top" width="50%">
@@ -86,26 +86,6 @@
 <div align="center">
   
   [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZZJNP112-LGTM&theme=tokyo-night)](https://github.com/ZZJNP112-LGTM)
-  
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ZZJNP112-LGTM&theme=tokyonight&column=7)](https://github.com/ZZJNP112-LGTM)
-  
-</div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
   
 </div>
 
